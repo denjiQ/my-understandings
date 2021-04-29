@@ -3,7 +3,7 @@ module.exports = {
   title: 'My Understandings',
   tagline: '自分の理解の集積所',
   url: 'https://denjiq.github.io',
-  baseUrl: '/',
+  baseUrl: '/my-understandings/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',

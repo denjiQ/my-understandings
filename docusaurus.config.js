@@ -2,13 +2,13 @@
 module.exports = {
   title: 'My Understandings',
   tagline: '自分の理解の集積所',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://denjiq.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'denjiQ', // Usually your GitHub org/user name.
+  projectName: 'my-understandings', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'My Understandings',
@@ -62,10 +62,6 @@ module.exports = {
         {
           title: 'More',
           items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
             {
               label: 'GitHub',
               href: 'https://github.com/facebook/docusaurus',

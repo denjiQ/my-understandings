@@ -71,6 +71,9 @@ module.exports = {
       ],
       copyright: `Copyright © ${new Date().getFullYear()} My Understandings, Inc. Built with Docusaurus.`,
     },
+    prism: {
+      theme: require('prism-react-renderer/themes/dracula'),
+    },
   },
   presets: [
     [
